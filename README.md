@@ -14,7 +14,7 @@ To use the Project Idea Generator, simply clone this repository or download the 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/mdxstudios/project-idea-generator.git
+    git clone https://github.com/mdxstudios/projectideagen.git
     ```
 
 2. Install Python (if not already installed). You can download Python from [here](https://www.python.org/downloads/).
